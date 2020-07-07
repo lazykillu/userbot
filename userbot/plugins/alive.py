@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      # Don't change this else you a TikTok loser, Son of Jinping. Add your own.
                      "`Bot created by:` [SnapDragon](tg://user?id=719877937), @lazykilller\n"
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
-                     "https://github.com/lazykillu/userbot/")
+                     
